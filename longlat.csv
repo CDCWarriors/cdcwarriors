@@ -1,3 +1,2 @@
-lat,long
-16.70,74.00
-16.80,74.25
+minlat,minlong,maxlat,minlat
+16.70,74.00,16.80,74.25
